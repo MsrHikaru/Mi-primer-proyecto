@@ -1,3 +1,0 @@
-El proyecto privado no se muestra en una pagina sin la cuenta porque al ser privado no da los permisos para que personas fuera del dueño o el equipo de trabajo del archivo puedan verlo o modificarlo
-
-El proyecto publico si se muestra porque da a las demas personas porque les consede el permiso de ver el archivo mas no modificarlo por las demas personas fuera del dueño o el equipo de trabajo
